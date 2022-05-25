@@ -7,7 +7,7 @@ This application manages the reservations of a car pooling service and offers va
 
 * Java
 
-##Usage
+## Usage
 
 * Clone repository.
 
